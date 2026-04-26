@@ -19,9 +19,11 @@
 ## 📱 Overview
 
 **Nirbhaya** is an Android-based women safety application designed to provide instant emergency assistance.
-With a simple and intuitive interface, users can quickly send alerts, contact trusted people, and access help during critical situations.
+With a simple UI and powerful features, users can quickly send alerts, call contacts, and access help during critical situations.
 
 ---
+
+## ✨ Features
 
 ## ✨ Features
 
@@ -29,21 +31,21 @@ With a simple and intuitive interface, users can quickly send alerts, contact tr
 → Instantly sends emergency alerts to saved contacts
 
 📞 **Quick Call Option**
-→ Directly call trusted contacts from the dashboard
+→ Call trusted contacts directly from dashboard
 
 📇 **Emergency Contacts Management**
-→ Add, edit, and manage multiple emergency contacts
+→ Add and manage multiple emergency contacts
 
 🎭 **Fake Call Feature**
-→ Simulates an incoming call to help users escape uncomfortable or unsafe situations
-→ Provides a realistic interface to avoid suspicion
+→ Simulates an incoming call to help escape uncomfortable or unsafe situations
+→ Looks realistic and helps avoid suspicion
 
 💬 **Suggestion Box**
-→ Allows users to submit feedback or report issues
-→ Helps improve the app continuously
+→ Users can send feedback or report issues
+→ Helps improve app functionality and user experience
 
 🎯 **Simple & Fast UI**
-→ Designed for quick navigation during panic situations
+→ Designed for quick access in panic situations
 
 ⚙️ **Quick Actions Panel**
 → Contact | Center | Settings | Call
@@ -59,27 +61,45 @@ With a simple and intuitive interface, users can quickly send alerts, contact tr
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Android-Platform-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Kotlin-Language-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Language-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <!-- Platform -->
 
-  <img src="https://img.shields.io/badge/XML-UI-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Material%20Design-UI-6200EE?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android"/>
 
-  <img src="https://img.shields.io/badge/SMS%20Manager-API-FF5252?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Call%20Intent-API-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Contacts-API-FFC107?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Permissions-API-9E9E9E?style=for-the-badge"/>
+  <!-- Languages -->
 
-  <img src="https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-Primary-blue?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Java-Support-orange?style=for-the-badge&logo=java"/>
+
+  <!-- UI -->
+
+  <img src="https://img.shields.io/badge/XML-UI-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/Material-Design-purple?style=for-the-badge&logo=materialdesign"/>
+
+  <!-- Features -->
+
+  <img src="https://img.shields.io/badge/SMS-Manager-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Call-Intent-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contacts-API-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Permissions-API-lightgrey?style=for-the-badge"/>
+
+  <!-- Special Features -->
+
+  <img src="https://img.shields.io/badge/Fake%20Call-Feature-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOS-System-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Suggestion-Box-success?style=for-the-badge"/>
+
+  <!-- Tools -->
+
+  <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=androidstudio"/>
+  <img src="https://img.shields.io/badge/Gradle-Build-blue?style=for-the-badge&logo=gradle"/>
 
 </p>
+
 ---
 
 ## 🔐 Permissions Required
@@ -129,4 +149,4 @@ If you like this project:
 
 <p align="center">
   ❤️ Built with purpose to make the world safer
-</p>
+</p>  
