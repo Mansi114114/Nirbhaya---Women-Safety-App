@@ -61,42 +61,20 @@ With a simple UI and powerful features, users can quickly send alerts, call cont
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
 
-  <!-- Platform -->
+  <img src="https://img.shields.io/badge/Android-Platform-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android"/>
+  <img src="https://img.shields.io/badge/Kotlin-Language-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Language-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-  <!-- Languages -->
+  <img src="https://img.shields.io/badge/XML-UI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Material%20Design-UI-6200EE?style=for-the-badge&logo=materialdesign&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Kotlin-Primary-blue?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/Java-Support-orange?style=for-the-badge&logo=java"/>
-
-  <!-- UI -->
-
-  <img src="https://img.shields.io/badge/XML-UI-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Material-Design-purple?style=for-the-badge&logo=materialdesign"/>
-
-  <!-- Features -->
-
-  <img src="https://img.shields.io/badge/SMS-Manager-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Call-Intent-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Contacts-API-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Permissions-API-lightgrey?style=for-the-badge"/>
-
-  <!-- Special Features -->
-
-  <img src="https://img.shields.io/badge/Fake%20Call-Feature-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOS-System-important?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Suggestion-Box-success?style=for-the-badge"/>
-
-  <!-- Tools -->
-
-  <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=androidstudio"/>
-  <img src="https://img.shields.io/badge/Gradle-Build-blue?style=for-the-badge&logo=gradle"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-Build-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 
 </p>
 
