@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nirbhaya</string>
+    <string name="suggestion_button_text">Give Suggestion</string>
+
+    <string name="end_call">End Call</string>
+    <string name="fake_call">Answer Call</string>
+
+</resources>

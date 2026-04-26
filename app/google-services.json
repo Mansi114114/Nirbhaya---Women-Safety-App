@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981514945938",
+    "project_id": "nirbhaya-a0874",
+    "storage_bucket": "nirbhaya-a0874.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981514945938:android:948cccedfeddbfb7aead4b",
+        "android_client_info": {
+          "package_name": "com.example.women_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981514945938-5a8015otk1g1ge95423iia3qc43it89u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfRnr85X4ddLYbLGjX03F2aKLDEyjlAMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981514945938-5a8015otk1g1ge95423iia3qc43it89u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

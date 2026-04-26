@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+caches/
+daemon/
+
+# Build files
+/build
+/app/build
+
+# Local config
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# APK files
+*.apk
+*.idsig
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Captures
+/captures
