@@ -61,10 +61,11 @@ With a simple UI and powerful features, users can quickly send alerts, call cont
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,kotlin,java,xml,gradle" />
+  <img src="https://skillicons.dev/icons?i=android,kotlin,gradle,androidstudio" />
 </p>
 
 ---
