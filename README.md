@@ -54,8 +54,6 @@ With a simple UI and powerful features, users can quickly send alerts, call cont
 
 ## 🖼️ App Preview
 
-## 🖼️ App Preview
-
 <p align="center">
   <img src="assets/signup.png" width="220"/>
   <img src="assets/dashboard.png" width="220"/>
